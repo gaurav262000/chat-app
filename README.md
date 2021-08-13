@@ -1,2 +1,2 @@
-# chat-app
-social media app using jsp servlet and javascript
+# doctor appointment
+ app using jsp servlet and javascript
